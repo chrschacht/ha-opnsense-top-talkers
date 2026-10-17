@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"title":"OPNsense Top Talkers","description":"Uses credentials from an existing OPNsense integration. Minimum 30 seconds; 60 seconds recommended.","data":{"opnsense_entry_id":"OPNsense integration","scan_interval":"Polling interval (seconds)"}}},"abort":{"already_configured":"This OPNsense integration is already connected."}}}

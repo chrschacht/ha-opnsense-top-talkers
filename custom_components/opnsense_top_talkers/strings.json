@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"title":"OPNsense Top Talkers","description":"Verwendet die Zugangsdaten einer vorhandenen OPNsense-Integration. Mindestens 30 Sekunden, empfohlen 60 Sekunden.","data":{"opnsense_entry_id":"OPNsense-Integration","scan_interval":"Abfrageintervall (Sekunden)"}}},"abort":{"already_configured":"Diese OPNsense-Integration ist bereits verbunden."}}}

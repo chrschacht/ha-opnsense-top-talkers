@@ -1,0 +1,9 @@
+{
+  "domain":"opnsense_top_talkers",
+  "name":"OPNsense Top Talkers",
+  "version":"0.1.0",
+  "config_flow":true,
+  "dependencies":["opnsense"],
+  "documentation":"https://github.com/chrschacht/ha-opnsense-top-talkers",
+  "iot_class":"local_polling"
+}
